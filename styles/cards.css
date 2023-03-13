@@ -1,0 +1,19 @@
+.card-white {
+	background-color: #DED9C2;
+	border-radius: 6px;
+	text-align: center;
+	padding: 16px; 
+	margin-top: 8px;
+	}	
+
+.card-white img {
+	height: 400px;
+	width: 400px;
+	object-fit: cover;
+}
+.cards {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;	
+	grid-gap: 16px;
+	margin: 24px 12px;
+}

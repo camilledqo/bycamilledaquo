@@ -1,0 +1,12 @@
+#banner {
+	height: 100vh;
+background-image: url("../images/134.jpeg");
+color: white;
+background-size: cover;
+background-position: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+

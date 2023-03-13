@@ -1,0 +1,12 @@
+#banner1 {
+	height: 10vh;
+color: white;
+background-size: cover;
+background-position: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background-color:  white;
+}
+
